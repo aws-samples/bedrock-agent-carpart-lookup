@@ -1,0 +1,5 @@
+pydantic
+aws-lambda-powertools[aws-sdk]
+aws-xray-sdk
+opensearch-py
+requests_aws4auth
