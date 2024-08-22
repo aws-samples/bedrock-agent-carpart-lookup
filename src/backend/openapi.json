@@ -1,0 +1,217 @@
+{
+    "openapi": "3.0",
+    "info": {
+      "title": "Car Parts Inventory API",
+      "description": "This API provides endpoints for querying car parts inventory and compatibility information. Use the get_part_from_inventory endpoint to retrieve specific parts from the inventory by their IDs, and the get_compatible_parts endpoint to find parts compatible with specific vehicles. For get_compatible_parts, the category field is optional but highly recommended for more accurate and relevant results.",
+      "version": "1.0.0"
+    },
+    "servers": [
+      {
+        "url": "/"
+      }
+    ],
+    "paths": {
+      "/get_part_from_inventory": {
+        "post": {
+          "summary": "POST /get_part_from_inventory",
+          "description": "Get part information from the inventory based on part ID(s).",
+          "operationId": "get_part_from_inventory_get_part_from_inventory_post",
+          "requestBody": {
+            "description": "Part ID(s) to retrieve from the inventory.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "allOf": [
+                    {
+                      "$ref": "#/components/schemas/PartFromInventoryRequest"
+                    }
+                  ],
+                  "title": "Request",
+                  "description": "Part ID(s) to retrieve from the inventory."
+                }
+              }
+            },
+            "required": true
+          },
+          "responses": {
+            "422": {
+              "description": "Validation Error",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "$ref": "#/components/schemas/HTTPValidationError"
+                  }
+                }
+              }
+            },
+            "200": {
+              "description": "Successful Response",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "type": "object",
+                    "title": "Return"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "/get_compatible_parts": {
+        "post": {
+          "summary": "POST /get_compatible_parts",
+          "description": "Get parts that are compatible with a specific vehicle make, model, and year. Using the category field is highly recommended for more accurate and relevant results.",
+          "operationId": "get_compatible_parts_get_compatible_parts_post",
+          "requestBody": {
+            "description": "Vehicle information to find compatible parts. The category field is optional but highly recommended for more accurate and relevant results.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "allOf": [
+                    {
+                      "$ref": "#/components/schemas/CompatiblePartsRequest"
+                    }
+                  ],
+                  "title": "Request",
+                  "description": "Vehicle information to find compatible parts. The category field is optional but highly recommended for more accurate and relevant results."
+                }
+              }
+            },
+            "required": true
+          },
+          "responses": {
+            "422": {
+              "description": "Validation Error",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "$ref": "#/components/schemas/HTTPValidationError"
+                  }
+                }
+              }
+            },
+            "200": {
+              "description": "Successful Response",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "type": "object",
+                    "title": "Return"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "components": {
+      "schemas": {
+        "CompatiblePartsRequest": {
+          "properties": {
+            "make": {
+              "type": "string",
+              "title": "Make",
+              "description": "Make of the vehicle. Example: 'Honda'"
+            },
+            "model": {
+              "type": "string",
+              "title": "Model",
+              "description": "Model of the vehicle. Example: 'CR-V'"
+            },
+            "year": {
+              "type": "integer",
+              "title": "Year",
+              "description": "Year of the vehicle. Example: 2021"
+            },
+            "category": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "title": "Category",
+              "description": "Category of the part. This field is optional but highly recommended for more accurate and relevant results. Example: 'Wipers' or 'Wiper Blades'"
+            }
+          },
+          "type": "object",
+          "required": [
+            "make",
+            "model",
+            "year"
+          ],
+          "title": "CompatiblePartsRequest"
+        },
+        "HTTPValidationError": {
+          "properties": {
+            "detail": {
+              "items": {
+                "$ref": "#/components/schemas/ValidationError"
+              },
+              "type": "array",
+              "title": "Detail"
+            }
+          },
+          "type": "object",
+          "title": "HTTPValidationError"
+        },
+        "PartFromInventoryRequest": {
+          "properties": {
+            "part_ids": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "items": {
+                    "type": "string"
+                  },
+                  "type": "array"
+                }
+              ],
+              "title": "Part Ids",
+              "description": "A single part ID or a list of part IDs to retrieve detailed information of the part from the inventory. Example: '76622-T0A-A01' or ['76622-T0A-A01', '76630-T0A-A01']"
+            }
+          },
+          "type": "object",
+          "required": [
+            "part_ids"
+          ],
+          "title": "PartFromInventoryRequest"
+        },
+        "ValidationError": {
+          "properties": {
+            "loc": {
+              "items": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "integer"
+                  }
+                ]
+              },
+              "type": "array",
+              "title": "Location"
+            },
+            "type": {
+              "type": "string",
+              "title": "Error Type"
+            }
+          },
+          "type": "object",
+          "required": [
+            "loc",
+            "msg",
+            "type"
+          ],
+          "title": "ValidationError"
+        }
+      }
+    }
+  }

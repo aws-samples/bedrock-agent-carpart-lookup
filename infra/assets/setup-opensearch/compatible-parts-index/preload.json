@@ -1,0 +1,3291 @@
+[
+  {
+    "manufacturer": "Ford",
+    "make": "Ford",
+    "model": "F-150",
+    "years": [
+      2022,
+      2021,
+      2020
+    ],
+    "category": "Lights",
+    "parts": [
+      {
+        "part_name": "Headlight Bulb",
+        "part_number": "FD3Z-13008-A",
+        "description": "Genuine Ford OEM headlight bulb, fits driver side"
+      },
+      {
+        "part_name": "Taillight Assembly",
+        "part_number": "FL3Z-13404-D",
+        "description": "Taillight assembly for Ford F-150, passenger side"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Ford",
+    "make": "Ford",
+    "model": "F-150",
+    "years": [
+      2022,
+      2021,
+      2020
+    ],
+    "category": "Wipers",
+    "parts": [
+      {
+        "part_name": "Wiper Blade",
+        "part_number": "PM-5924",
+        "description": "Premium wiper blade for Ford F-150, driver side"
+      },
+      {
+        "part_name": "Wiper Arm",
+        "part_number": "DL3Z-17528-A",
+        "description": "Genuine Ford OEM wiper arm, passenger side"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Ford",
+    "make": "Ford",
+    "model": "F-150",
+    "years": [
+      2022,
+      2021,
+      2020
+    ],
+    "category": "Tires",
+    "parts": [
+      {
+        "part_name": "All-Terrain Tire",
+        "part_number": "265/70R17",
+        "description": "Goodyear Wrangler All-Terrain Adventure tire for Ford F-150"
+      },
+      {
+        "part_name": "Tire Pressure Monitoring System",
+        "part_number": "BL3Z-1A189-A",
+        "description": "Genuine Ford TPMS sensor and service kit"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Ford",
+    "make": "Ford",
+    "model": "F-150",
+    "years": [
+      2022,
+      2021,
+      2020,
+      2019,
+      2018
+    ],
+    "category": "Brakes",
+    "parts": [
+      {
+        "part_name": "Brake Pad Set",
+        "part_number": "TL32Z-001-B",
+        "description": "Front brake pad set for Ford F-150"
+      },
+      {
+        "part_name": "Brake Rotor",
+        "part_number": "DG1Z-1125-A",
+        "description": "Rear brake rotor for Ford F-150"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Ford",
+    "make": "Ford",
+    "model": "F-150",
+    "years": [
+      2022,
+      2021
+    ],
+    "category": "Suspension",
+    "parts": [
+      {
+        "part_name": "Shock Absorber",
+        "part_number": "DG1Z-18124-A",
+        "description": "Front shock absorber for Ford F-150"
+      },
+      {
+        "part_name": "Coil Spring",
+        "part_number": "FL3Z-5310-A",
+        "description": "Rear coil spring for Ford F-150"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Ford",
+    "make": "Ford",
+    "model": "Mustang",
+    "years": [
+      2022,
+      2021,
+      2020,
+      2019
+    ],
+    "category": "Lights",
+    "parts": [
+      {
+        "part_name": "Headlight Assembly",
+        "part_number": "FR3Z-13008-D",
+        "description": "Headlight assembly for Ford Mustang, driver side"
+      },
+      {
+        "part_name": "LED Fog Light",
+        "part_number": "JL3Z-15217-A",
+        "description": "LED fog light for Ford Mustang"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Ford",
+    "make": "Ford",
+    "model": "Mustang",
+    "years": [
+      2022,
+      2021,
+      2020
+    ],
+    "category": "Exhaust",
+    "parts": [
+      {
+        "part_name": "Muffler",
+        "part_number": "FR3Z-5230-A",
+        "description": "Performance muffler for Ford Mustang"
+      },
+      {
+        "part_name": "Catalytic Converter",
+        "part_number": "DL3Z-5G232-A",
+        "description": "Catalytic converter for Ford Mustang"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Chevrolet",
+    "make": "Chevrolet",
+    "model": "Silverado 1500",
+    "years": [
+      2022,
+      2021,
+      2020,
+      2019,
+      2018
+    ],
+    "category": "Lights",
+    "parts": [
+      {
+        "part_name": "Headlight Bulb",
+        "part_number": "84063412",
+        "description": "Headlight bulb for Chevrolet Silverado 1500"
+      },
+      {
+        "part_name": "Fog Light",
+        "part_number": "84083855",
+        "description": "Fog light assembly for Chevrolet Silverado 1500"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Chevrolet",
+    "make": "Chevrolet",
+    "model": "Silverado 1500",
+    "years": [
+      2022,
+      2021,
+      2020
+    ],
+    "category": "Wipers",
+    "parts": [
+      {
+        "part_name": "Wiper Blade",
+        "part_number": "19370432",
+        "description": "Wiper blade for Chevrolet Silverado 1500, driver side"
+      },
+      {
+        "part_name": "Wiper Arm",
+        "part_number": "22941617",
+        "description": "Wiper arm for Chevrolet Silverado 1500, passenger side"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Ford",
+    "make": "Ford",
+    "model": "Edge",
+    "years": [
+      2022,
+      2021,
+      2020
+    ],
+    "category": "Lights",
+    "parts": [
+      {
+        "part_name": "Headlight Bulb",
+        "part_number": "DG9Z-13008-A",
+        "description": "Headlight bulb for Ford Edge, driver side"
+      },
+      {
+        "part_name": "Taillight Assembly",
+        "part_number": "DG9Z-13404-B",
+        "description": "Taillight assembly for Ford Edge, passenger side"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Ford",
+    "make": "Ford",
+    "model": "Edge",
+    "years": [
+      2022,
+      2021,
+      2020,
+      2019
+    ],
+    "category": "Wipers",
+    "parts": [
+      {
+        "part_name": "Wiper Blade",
+        "part_number": "PM-8024",
+        "description": "Premium wiper blade for Ford Edge, driver side"
+      },
+      {
+        "part_name": "Wiper Arm",
+        "part_number": "DG9Z-17528-C",
+        "description": "Wiper arm for Ford Edge, passenger side"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Ford",
+    "make": "Ford",
+    "model": "Edge",
+    "years": [
+      2022,
+      2021,
+      2020,
+      2019,
+      2018
+    ],
+    "category": "Brakes",
+    "parts": [
+      {
+        "part_name": "Brake Pad Set",
+        "part_number": "DG9Z-2001-A",
+        "description": "Front brake pad set for Ford Edge"
+      },
+      {
+        "part_name": "Brake Rotor",
+        "part_number": "DG9Z-1125-B",
+        "description": "Rear brake rotor for Ford Edge"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Ford",
+    "make": "Ford",
+    "model": "Edge",
+    "years": [
+      2022,
+      2021,
+      2020
+    ],
+    "category": "Suspension",
+    "parts": [
+      {
+        "part_name": "Shock Absorber",
+        "part_number": "DG9Z-18124-B",
+        "description": "Front shock absorber for Ford Edge"
+      },
+      {
+        "part_name": "Coil Spring",
+        "part_number": "DG9Z-5310-A",
+        "description": "Rear coil spring for Ford Edge"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Ford",
+    "make": "Ford",
+    "model": "Edge",
+    "years": [
+      2022,
+      2021,
+      2020,
+      2019,
+      2018,
+      2017
+    ],
+    "category": "Engine",
+    "parts": [
+      {
+        "part_name": "Air Filter",
+        "part_number": "FA-1884",
+        "description": "Engine air filter for Ford Edge"
+      },
+      {
+        "part_name": "Spark Plug",
+        "part_number": "SP-578",
+        "description": "Iridium spark plug for Ford Edge"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Ford",
+    "make": "Ford",
+    "model": "Edge",
+    "years": [
+      2022,
+      2021,
+      2020,
+      2019
+    ],
+    "category": "Wheels",
+    "parts": [
+      {
+        "part_name": "Alloy Wheel",
+        "part_number": "DG9Z-1007-A",
+        "description": "18-inch alloy wheel for Ford Edge"
+      },
+      {
+        "part_name": "Wheel Hub Assembly",
+        "part_number": "DG9Z-1109-B",
+        "description": "Front wheel hub assembly for Ford Edge"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Ford",
+    "make": "Ford",
+    "model": "Edge",
+    "years": [
+      2022,
+      2021
+    ],
+    "category": "Interior",
+    "parts": [
+      {
+        "part_name": "Floor Mat Set",
+        "part_number": "DG9Z-6313046-A",
+        "description": "Premium floor mat set for Ford Edge"
+      },
+      {
+        "part_name": "Steering Wheel Cover",
+        "part_number": "DG9Z-3600-B",
+        "description": "Leather steering wheel cover for Ford Edge"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Ford",
+    "make": "Ford",
+    "model": "Edge",
+    "years": [
+      2022,
+      2021,
+      2020,
+      2019,
+      2018
+    ],
+    "category": "Exterior",
+    "parts": [
+      {
+        "part_name": "Side Mirror",
+        "part_number": "DG9Z-17683-A",
+        "description": "Power side mirror for Ford Edge, driver side"
+      },
+      {
+        "part_name": "Roof Rack",
+        "part_number": "DG9Z-7855100-A",
+        "description": "Aluminum roof rack for Ford Edge"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Ford",
+    "make": "Ford",
+    "model": "Edge",
+    "years": [
+      2022,
+      2021,
+      2020
+    ],
+    "category": "Electronics",
+    "parts": [
+      {
+        "part_name": "Backup Camera",
+        "part_number": "DG9Z-19G490-A",
+        "description": "Rearview backup camera for Ford Edge"
+      },
+      {
+        "part_name": "Dash Cam",
+        "part_number": "DCM-1080P",
+        "description": "1080P dash cam for Ford Edge"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Ford",
+    "make": "Ford",
+    "model": "Edge",
+    "years": [
+      2022,
+      2021,
+      2020,
+      2019,
+      2018,
+      2017,
+      2016
+    ],
+    "category": "Fluids",
+    "parts": [
+      {
+        "part_name": "Engine Oil",
+        "part_number": "XO-5W30-QSP",
+        "description": "Full synthetic 5W-30 engine oil for Ford Edge"
+      },
+      {
+        "part_name": "Transmission Fluid",
+        "part_number": "XT-7QMM",
+        "description": "Mercon LV transmission fluid for Ford Edge"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Honda",
+    "make": "Honda",
+    "model": "Accord",
+    "years": [
+      2022,
+      2021,
+      2020,
+      2019
+    ],
+    "category": "Lights",
+    "parts": [
+      {
+        "part_name": "Headlight Bulb",
+        "part_number": "33116-T2A-A01",
+        "description": "Headlight bulb for Honda Accord, driver side"
+      },
+      {
+        "part_name": "Fog Light Assembly",
+        "part_number": "33950-T2A-A01",
+        "description": "Fog light assembly for Honda Accord"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Honda",
+    "make": "Honda",
+    "model": "Accord",
+    "years": [
+      2022,
+      2021,
+      2020
+    ],
+    "category": "Wipers",
+    "parts": [
+      {
+        "part_name": "Wiper Blade",
+        "part_number": "76622-T2A-A01",
+        "description": "Wiper blade for Honda Accord, driver side"
+      },
+      {
+        "part_name": "Wiper Arm",
+        "part_number": "76630-T2A-A01",
+        "description": "Wiper arm for Honda Accord, passenger side"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Honda",
+    "make": "Honda",
+    "model": "Accord",
+    "years": [
+      2022,
+      2021,
+      2020,
+      2019,
+      2018
+    ],
+    "category": "Brakes",
+    "parts": [
+      {
+        "part_name": "Brake Pad Set",
+        "part_number": "45022-T2A-A01",
+        "description": "Front brake pad set for Honda Accord"
+      },
+      {
+        "part_name": "Brake Rotor",
+        "part_number": "45251-T2A-A01",
+        "description": "Rear brake rotor for Honda Accord"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Honda",
+    "make": "Honda",
+    "model": "Accord",
+    "years": [
+      2022,
+      2021,
+      2020
+    ],
+    "category": "Suspension",
+    "parts": [
+      {
+        "part_name": "Shock Absorber",
+        "part_number": "51611-T2A-A01",
+        "description": "Front shock absorber for Honda Accord"
+      },
+      {
+        "part_name": "Coil Spring",
+        "part_number": "51401-T2A-A01",
+        "description": "Rear coil spring for Honda Accord"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Honda",
+    "make": "Honda",
+    "model": "Accord",
+    "years": [
+      2022,
+      2021,
+      2020,
+      2019,
+      2018,
+      2017
+    ],
+    "category": "Engine",
+    "parts": [
+      {
+        "part_name": "Air Filter",
+        "part_number": "17220-5A2-A00",
+        "description": "Engine air filter for Honda Accord"
+      },
+      {
+        "part_name": "Spark Plug",
+        "part_number": "12290-R70-A01",
+        "description": "Iridium spark plug for Honda Accord"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Honda",
+    "make": "Honda",
+    "model": "Accord",
+    "years": [
+      2022,
+      2021,
+      2020,
+      2019
+    ],
+    "category": "Wheels",
+    "parts": [
+      {
+        "part_name": "Alloy Wheel",
+        "part_number": "42700-T2A-A01",
+        "description": "18-inch alloy wheel for Honda Accord"
+      },
+      {
+        "part_name": "Wheel Hub Assembly",
+        "part_number": "42200-T2A-A01",
+        "description": "Front wheel hub assembly for Honda Accord"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Honda",
+    "make": "Honda",
+    "model": "Accord",
+    "years": [
+      2022,
+      2021
+    ],
+    "category": "Interior",
+    "parts": [
+      {
+        "part_name": "Floor Mat Set",
+        "part_number": "08P13-T2A-100",
+        "description": "Premium floor mat set for Honda Accord"
+      },
+      {
+        "part_name": "Steering Wheel Cover",
+        "part_number": "08U97-T2A-100",
+        "description": "Leather steering wheel cover for Honda Accord"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Honda",
+    "make": "Honda",
+    "model": "Accord",
+    "years": [
+      2022,
+      2021,
+      2020,
+      2019,
+      2018
+    ],
+    "category": "Exterior",
+    "parts": [
+      {
+        "part_name": "Side Mirror",
+        "part_number": "76200-T2A-A01",
+        "description": "Power side mirror for Honda Accord, driver side"
+      },
+      {
+        "part_name": "Roof Rack",
+        "part_number": "08L02-T2A-100",
+        "description": "Aluminum roof rack for Honda Accord"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Honda",
+    "make": "Honda",
+    "model": "Accord",
+    "years": [
+      2022,
+      2021,
+      2020
+    ],
+    "category": "Electronics",
+    "parts": [
+      {
+        "part_name": "Backup Camera",
+        "part_number": "39530-T2A-A01",
+        "description": "Rearview backup camera for Honda Accord"
+      },
+      {
+        "part_name": "Dash Cam",
+        "part_number": "DC-1080P",
+        "description": "1080P dash cam for Honda Accord"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Honda",
+    "make": "Honda",
+    "model": "Accord",
+    "years": [
+      2022,
+      2021,
+      2020,
+      2019,
+      2018,
+      2017,
+      2016
+    ],
+    "category": "Fluids",
+    "parts": [
+      {
+        "part_name": "Engine Oil",
+        "part_number": "08207-9002",
+        "description": "Full synthetic 0W-20 engine oil for Honda Accord"
+      },
+      {
+        "part_name": "Transmission Fluid",
+        "part_number": "08200-9008",
+        "description": "Honda ATF-Type 3.1 transmission fluid for Honda Accord"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Honda",
+    "make": "Honda",
+    "model": "Civic",
+    "years": [
+      2022,
+      2021,
+      2020,
+      2019
+    ],
+    "category": "Lights",
+    "parts": [
+      {
+        "part_name": "Headlight Bulb",
+        "part_number": "33116-5A2-A01",
+        "description": "Headlight bulb for Honda Civic, driver side"
+      },
+      {
+        "part_name": "Fog Light Assembly",
+        "part_number": "33950-5A2-A01",
+        "description": "Fog light assembly for Honda Civic"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Honda",
+    "make": "Honda",
+    "model": "Civic",
+    "years": [
+      2022,
+      2021,
+      2020
+    ],
+    "category": "Wipers",
+    "parts": [
+      {
+        "part_name": "Wiper Blade",
+        "part_number": "76622-5A2-A01",
+        "description": "Wiper blade for Honda Civic, driver side"
+      },
+      {
+        "part_name": "Wiper Arm",
+        "part_number": "76630-5A2-A01",
+        "description": "Wiper arm for Honda Civic, passenger side"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Honda",
+    "make": "Honda",
+    "model": "Civic",
+    "years": [
+      2022,
+      2021,
+      2020,
+      2019,
+      2018
+    ],
+    "category": "Brakes",
+    "parts": [
+      {
+        "part_name": "Brake Pad Set",
+        "part_number": "45022-5A2-A01",
+        "description": "Front brake pad set for Honda Civic"
+      },
+      {
+        "part_name": "Brake Rotor",
+        "part_number": "45251-5A2-A01",
+        "description": "Rear brake rotor for Honda Civic"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Honda",
+    "make": "Honda",
+    "model": "Civic",
+    "years": [
+      2022,
+      2021,
+      2020
+    ],
+    "category": "Suspension",
+    "parts": [
+      {
+        "part_name": "Shock Absorber",
+        "part_number": "51611-5A2-A01",
+        "description": "Front shock absorber for Honda Civic"
+      },
+      {
+        "part_name": "Coil Spring",
+        "part_number": "51401-5A2-A01",
+        "description": "Rear coil spring for Honda Civic"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Honda",
+    "make": "Honda",
+    "model": "Civic",
+    "years": [
+      2022,
+      2021,
+      2020,
+      2019,
+      2018,
+      2017
+    ],
+    "category": "Engine",
+    "parts": [
+      {
+        "part_name": "Air Filter",
+        "part_number": "17220-5A2-A00",
+        "description": "Engine air filter for Honda Civic"
+      },
+      {
+        "part_name": "Spark Plug",
+        "part_number": "12290-R70-A01",
+        "description": "Iridium spark plug for Honda Civic"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Honda",
+    "make": "Honda",
+    "model": "Civic",
+    "years": [
+      2022,
+      2021,
+      2020,
+      2019
+    ],
+    "category": "Wheels",
+    "parts": [
+      {
+        "part_name": "Alloy Wheel",
+        "part_number": "42700-5A2-A01",
+        "description": "18-inch alloy wheel for Honda Civic"
+      },
+      {
+        "part_name": "Wheel Hub Assembly",
+        "part_number": "42200-5A2-A01",
+        "description": "Front wheel hub assembly for Honda Civic"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Honda",
+    "make": "Honda",
+    "model": "Civic",
+    "years": [
+      2022,
+      2021
+    ],
+    "category": "Interior",
+    "parts": [
+      {
+        "part_name": "Floor Mat Set",
+        "part_number": "08P13-5A2-100",
+        "description": "Premium floor mat set for Honda Civic"
+      },
+      {
+        "part_name": "Steering Wheel Cover",
+        "part_number": "08U97-5A2-100",
+        "description": "Leather steering wheel cover for Honda Civic"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Honda",
+    "make": "Honda",
+    "model": "Civic",
+    "years": [
+      2022,
+      2021,
+      2020,
+      2019,
+      2018
+    ],
+    "category": "Exterior",
+    "parts": [
+      {
+        "part_name": "Side Mirror",
+        "part_number": "76200-5A2-A01",
+        "description": "Power side mirror for Honda Civic, driver side"
+      },
+      {
+        "part_name": "Roof Rack",
+        "part_number": "08L02-5A2-100",
+        "description": "Aluminum roof rack for Honda Civic"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Honda",
+    "make": "Honda",
+    "model": "Civic",
+    "years": [
+      2022,
+      2021,
+      2020
+    ],
+    "category": "Electronics",
+    "parts": [
+      {
+        "part_name": "Backup Camera",
+        "part_number": "39530-5A2-A01",
+        "description": "Rearview backup camera for Honda Civic"
+      },
+      {
+        "part_name": "Dash Cam",
+        "part_number": "DC-1080P",
+        "description": "1080P dash cam for Honda Civic"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Honda",
+    "make": "Honda",
+    "model": "Civic",
+    "years": [
+      2022,
+      2021,
+      2020,
+      2019,
+      2018,
+      2017,
+      2016
+    ],
+    "category": "Fluids",
+    "parts": [
+      {
+        "part_name": "Engine Oil",
+        "part_number": "08207-9002",
+        "description": "Full synthetic 0W-20 engine oil for Honda Civic"
+      },
+      {
+        "part_name": "Transmission Fluid",
+        "part_number": "08200-9008",
+        "description": "Honda ATF-Type 3.1 transmission fluid for Honda Civic"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Honda",
+    "make": "Honda",
+    "model": "CR-V",
+    "years": [
+      2022,
+      2021,
+      2020,
+      2019
+    ],
+    "category": "Lights",
+    "parts": [
+      {
+        "part_name": "Headlight Bulb",
+        "part_number": "33116-T0A-A01",
+        "description": "Headlight bulb for Honda CR-V, driver side"
+      },
+      {
+        "part_name": "Fog Light Assembly",
+        "part_number": "33950-T0A-A01",
+        "description": "Fog light assembly for Honda CR-V"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Honda",
+    "make": "Honda",
+    "model": "CR-V",
+    "years": [
+      2022,
+      2021,
+      2020
+    ],
+    "category": "Wipers",
+    "parts": [
+      {
+        "part_name": "Wiper Blade",
+        "part_number": "76622-T0A-A01",
+        "description": "Wiper blade for Honda CR-V, driver side"
+      },
+      {
+        "part_name": "Wiper Arm",
+        "part_number": "76630-T0A-A01",
+        "description": "Wiper arm for Honda CR-V, passenger side"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Honda",
+    "make": "Honda",
+    "model": "CR-V",
+    "years": [
+      2022,
+      2021,
+      2020,
+      2019,
+      2018
+    ],
+    "category": "Brakes",
+    "parts": [
+      {
+        "part_name": "Brake Pad Set",
+        "part_number": "45022-T0A-A01",
+        "description": "Front brake pad set for Honda CR-V"
+      },
+      {
+        "part_name": "Brake Rotor",
+        "part_number": "45251-T0A-A01",
+        "description": "Rear brake rotor for Honda CR-V"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Honda",
+    "make": "Honda",
+    "model": "CR-V",
+    "years": [
+      2022,
+      2021,
+      2020
+    ],
+    "category": "Suspension",
+    "parts": [
+      {
+        "part_name": "Shock Absorber",
+        "part_number": "51611-T0A-A01",
+        "description": "Front shock absorber for Honda CR-V"
+      },
+      {
+        "part_name": "Coil Spring",
+        "part_number": "51401-T0A-A01",
+        "description": "Rear coil spring for Honda CR-V"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Honda",
+    "make": "Honda",
+    "model": "CR-V",
+    "years": [
+      2022,
+      2021,
+      2020,
+      2019,
+      2018,
+      2017
+    ],
+    "category": "Engine",
+    "parts": [
+      {
+        "part_name": "Air Filter",
+        "part_number": "17220-5A2-A00",
+        "description": "Engine air filter for Honda CR-V"
+      },
+      {
+        "part_name": "Spark Plug",
+        "part_number": "12290-R70-A01",
+        "description": "Iridium spark plug for Honda CR-V"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Honda",
+    "make": "Honda",
+    "model": "CR-V",
+    "years": [
+      2022,
+      2021,
+      2020,
+      2019
+    ],
+    "category": "Wheels",
+    "parts": [
+      {
+        "part_name": "Alloy Wheel",
+        "part_number": "42700-T0A-A01",
+        "description": "18-inch alloy wheel for Honda CR-V"
+      },
+      {
+        "part_name": "Wheel Hub Assembly",
+        "part_number": "42200-T0A-A01",
+        "description": "Front wheel hub assembly for Honda CR-V"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Honda",
+    "make": "Honda",
+    "model": "CR-V",
+    "years": [
+      2022,
+      2021
+    ],
+    "category": "Interior",
+    "parts": [
+      {
+        "part_name": "Floor Mat Set",
+        "part_number": "08P13-T0A-100",
+        "description": "Premium floor mat set for Honda CR-V"
+      },
+      {
+        "part_name": "Steering Wheel Cover",
+        "part_number": "08U97-T0A-100",
+        "description": "Leather steering wheel cover for Honda CR-V"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Honda",
+    "make": "Honda",
+    "model": "CR-V",
+    "years": [
+      2022,
+      2021,
+      2020,
+      2019,
+      2018
+    ],
+    "category": "Exterior",
+    "parts": [
+      {
+        "part_name": "Side Mirror",
+        "part_number": "76200-T0A-A01",
+        "description": "Power side mirror for Honda CR-V, driver side"
+      },
+      {
+        "part_name": "Roof Rack",
+        "part_number": "08L02-T0A-100",
+        "description": "Aluminum roof rack for Honda CR-V"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Honda",
+    "make": "Honda",
+    "model": "CR-V",
+    "years": [
+      2022,
+      2021,
+      2020
+    ],
+    "category": "Electronics",
+    "parts": [
+      {
+        "part_name": "Backup Camera",
+        "part_number": "39530-T0A-A01",
+        "description": "Rearview backup camera for Honda CR-V"
+      },
+      {
+        "part_name": "Dash Cam",
+        "part_number": "DC-1080P",
+        "description": "1080P dash cam for Honda CR-V"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Honda",
+    "make": "Honda",
+    "model": "CR-V",
+    "years": [
+      2022,
+      2021,
+      2020,
+      2019,
+      2018,
+      2017,
+      2016
+    ],
+    "category": "Fluids",
+    "parts": [
+      {
+        "part_name": "Engine Oil",
+        "part_number": "08207-9002",
+        "description": "Full synthetic 0W-20 engine oil for Honda CR-V"
+      },
+      {
+        "part_name": "Transmission Fluid",
+        "part_number": "08200-9008",
+        "description": "Honda ATF-Type 3.1 transmission fluid for Honda CR-V"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Subaru",
+    "make": "Subaru",
+    "model": "Forester",
+    "years": [
+      2022,
+      2021,
+      2020,
+      2019
+    ],
+    "category": "Lights",
+    "parts": [
+      {
+        "part_name": "Headlight Bulb",
+        "part_number": "84001-SG020",
+        "description": "Headlight bulb for Subaru Forester, driver side"
+      },
+      {
+        "part_name": "Fog Light Assembly",
+        "part_number": "84501-SG010",
+        "description": "Fog light assembly for Subaru Forester"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Subaru",
+    "make": "Subaru",
+    "model": "Forester",
+    "years": [
+      2022,
+      2021,
+      2020
+    ],
+    "category": "Wipers",
+    "parts": [
+      {
+        "part_name": "Wiper Blade",
+        "part_number": "65021-SG070",
+        "description": "Wiper blade for Subaru Forester, driver side"
+      },
+      {
+        "part_name": "Wiper Arm",
+        "part_number": "65022-SG010",
+        "description": "Wiper arm for Subaru Forester, passenger side"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Subaru",
+    "make": "Subaru",
+    "model": "Forester",
+    "years": [
+      2022,
+      2021,
+      2020,
+      2019,
+      2018
+    ],
+    "category": "Brakes",
+    "parts": [
+      {
+        "part_name": "Brake Pad Set",
+        "part_number": "26696-SG000",
+        "description": "Front brake pad set for Subaru Forester"
+      },
+      {
+        "part_name": "Brake Rotor",
+        "part_number": "26701-SG020",
+        "description": "Rear brake rotor for Subaru Forester"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Subaru",
+    "make": "Subaru",
+    "model": "Forester",
+    "years": [
+      2022,
+      2021,
+      2020
+    ],
+    "category": "Suspension",
+    "parts": [
+      {
+        "part_name": "Shock Absorber",
+        "part_number": "20311-SG010",
+        "description": "Front shock absorber for Subaru Forester"
+      },
+      {
+        "part_name": "Coil Spring",
+        "part_number": "20920-SG020",
+        "description": "Rear coil spring for Subaru Forester"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Subaru",
+    "make": "Subaru",
+    "model": "Forester",
+    "years": [
+      2022,
+      2021,
+      2020,
+      2019,
+      2018,
+      2017
+    ],
+    "category": "Engine",
+    "parts": [
+      {
+        "part_name": "Air Filter",
+        "part_number": "16546-AA120",
+        "description": "Engine air filter for Subaru Forester"
+      },
+      {
+        "part_name": "Spark Plug",
+        "part_number": "22433-AA670",
+        "description": "Iridium spark plug for Subaru Forester"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Subaru",
+    "make": "Subaru",
+    "model": "Forester",
+    "years": [
+      2022,
+      2021,
+      2020,
+      2019
+    ],
+    "category": "Wheels",
+    "parts": [
+      {
+        "part_name": "Alloy Wheel",
+        "part_number": "28111-SG040",
+        "description": "18-inch alloy wheel for Subaru Forester"
+      },
+      {
+        "part_name": "Wheel Hub Assembly",
+        "part_number": "28192-SG010",
+        "description": "Front wheel hub assembly for Subaru Forester"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Subaru",
+    "make": "Subaru",
+    "model": "Forester",
+    "years": [
+      2022,
+      2021
+    ],
+    "category": "Interior",
+    "parts": [
+      {
+        "part_name": "Floor Mat Set",
+        "part_number": "J501-SSC000",
+        "description": "Premium floor mat set for Subaru Forester"
+      },
+      {
+        "part_name": "Steering Wheel Cover",
+        "part_number": "63114-SG020",
+        "description": "Leather steering wheel cover for Subaru Forester"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Subaru",
+    "make": "Subaru",
+    "model": "Forester",
+    "years": [
+      2022,
+      2021,
+      2020,
+      2019,
+      2018
+    ],
+    "category": "Exterior",
+    "parts": [
+      {
+        "part_name": "Side Mirror",
+        "part_number": "91033-SG010",
+        "description": "Power side mirror for Subaru Forester, driver side"
+      },
+      {
+        "part_name": "Roof Rack",
+        "part_number": "E361-SSA000",
+        "description": "Aluminum roof rack for Subaru Forester"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Subaru",
+    "make": "Subaru",
+    "model": "Forester",
+    "years": [
+      2022,
+      2021,
+      2020
+    ],
+    "category": "Electronics",
+    "parts": [
+      {
+        "part_name": "Backup Camera",
+        "part_number": "86261-SG010",
+        "description": "Rearview backup camera for Subaru Forester"
+      },
+      {
+        "part_name": "Dash Cam",
+        "part_number": "DC-1080P",
+        "description": "1080P dash cam for Subaru Forester"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Subaru",
+    "make": "Subaru",
+    "model": "Forester",
+    "years": [
+      2022,
+      2021,
+      2020,
+      2019,
+      2018,
+      2017,
+      2016
+    ],
+    "category": "Fluids",
+    "parts": [
+      {
+        "part_name": "Engine Oil",
+        "part_number": "SOA427V1315",
+        "description": "Full synthetic 0W-20 engine oil for Subaru Forester"
+      },
+      {
+        "part_name": "Transmission Fluid",
+        "part_number": "SOA427V1600",
+        "description": "Subaru ATF for Subaru Forester"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Subaru",
+    "make": "Subaru",
+    "model": "Outback",
+    "years": [
+      2022,
+      2021,
+      2020,
+      2019
+    ],
+    "category": "Lights",
+    "parts": [
+      {
+        "part_name": "Headlight Bulb",
+        "part_number": "84001-SJ020",
+        "description": "Headlight bulb for Subaru Outback, driver side"
+      },
+      {
+        "part_name": "Fog Light Assembly",
+        "part_number": "84501-SJ010",
+        "description": "Fog light assembly for Subaru Outback"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Subaru",
+    "make": "Subaru",
+    "model": "Outback",
+    "years": [
+      2022,
+      2021,
+      2020
+    ],
+    "category": "Wipers",
+    "parts": [
+      {
+        "part_name": "Wiper Blade",
+        "part_number": "65021-SJ070",
+        "description": "Wiper blade for Subaru Outback, driver side"
+      },
+      {
+        "part_name": "Wiper Arm",
+        "part_number": "65022-SJ010",
+        "description": "Wiper arm for Subaru Outback, passenger side"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Subaru",
+    "make": "Subaru",
+    "model": "Outback",
+    "years": [
+      2022,
+      2021,
+      2020,
+      2019,
+      2018
+    ],
+    "category": "Brakes",
+    "parts": [
+      {
+        "part_name": "Brake Pad Set",
+        "part_number": "26696-SJ000",
+        "description": "Front brake pad set for Subaru Outback"
+      },
+      {
+        "part_name": "Brake Rotor",
+        "part_number": "26701-SJ020",
+        "description": "Rear brake rotor for Subaru Outback"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Subaru",
+    "make": "Subaru",
+    "model": "Outback",
+    "years": [
+      2022,
+      2021,
+      2020
+    ],
+    "category": "Suspension",
+    "parts": [
+      {
+        "part_name": "Shock Absorber",
+        "part_number": "20311-SJ010",
+        "description": "Front shock absorber for Subaru Outback"
+      },
+      {
+        "part_name": "Coil Spring",
+        "part_number": "20920-SJ020",
+        "description": "Rear coil spring for Subaru Outback"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Subaru",
+    "make": "Subaru",
+    "model": "Outback",
+    "years": [
+      2022,
+      2021,
+      2020,
+      2019,
+      2018,
+      2017
+    ],
+    "category": "Engine",
+    "parts": [
+      {
+        "part_name": "Air Filter",
+        "part_number": "16546-AA120",
+        "description": "Engine air filter for Subaru Outback"
+      },
+      {
+        "part_name": "Spark Plug",
+        "part_number": "22433-AA670",
+        "description": "Iridium spark plug for Subaru Outback"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Subaru",
+    "make": "Subaru",
+    "model": "Outback",
+    "years": [
+      2022,
+      2021,
+      2020,
+      2019
+    ],
+    "category": "Wheels",
+    "parts": [
+      {
+        "part_name": "Alloy Wheel",
+        "part_number": "28111-SJ040",
+        "description": "18-inch alloy wheel for Subaru Outback"
+      },
+      {
+        "part_name": "Wheel Hub Assembly",
+        "part_number": "28192-SJ010",
+        "description": "Front wheel hub assembly for Subaru Outback"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Subaru",
+    "make": "Subaru",
+    "model": "Outback",
+    "years": [
+      2022,
+      2021
+    ],
+    "category": "Interior",
+    "parts": [
+      {
+        "part_name": "Floor Mat Set",
+        "part_number": "J501-SSC000",
+        "description": "Premium floor mat set for Subaru Outback"
+      },
+      {
+        "part_name": "Steering Wheel Cover",
+        "part_number": "63114-SJ020",
+        "description": "Leather steering wheel cover for Subaru Outback"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Subaru",
+    "make": "Subaru",
+    "model": "Outback",
+    "years": [
+      2022,
+      2021,
+      2020,
+      2019,
+      2018
+    ],
+    "category": "Exterior",
+    "parts": [
+      {
+        "part_name": "Side Mirror",
+        "part_number": "91033-SJ010",
+        "description": "Power side mirror for Subaru Outback, driver side"
+      },
+      {
+        "part_name": "Roof Rack",
+        "part_number": "E361-SSA000",
+        "description": "Aluminum roof rack for Subaru Outback"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Subaru",
+    "make": "Subaru",
+    "model": "Outback",
+    "years": [
+      2022,
+      2021,
+      2020
+    ],
+    "category": "Electronics",
+    "parts": [
+      {
+        "part_name": "Backup Camera",
+        "part_number": "86261-SJ010",
+        "description": "Rearview backup camera for Subaru Outback"
+      },
+      {
+        "part_name": "Dash Cam",
+        "part_number": "DC-1080P",
+        "description": "1080P dash cam for Subaru Outback"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Subaru",
+    "make": "Subaru",
+    "model": "Outback",
+    "years": [
+      2022,
+      2021,
+      2020,
+      2019,
+      2018,
+      2017,
+      2016
+    ],
+    "category": "Fluids",
+    "parts": [
+      {
+        "part_name": "Engine Oil",
+        "part_number": "SOA427V1315",
+        "description": "Full synthetic 0W-20 engine oil for Subaru Outback"
+      },
+      {
+        "part_name": "Transmission Fluid",
+        "part_number": "SOA427V1600",
+        "description": "Subaru ATF for Subaru Outback"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Subaru",
+    "make": "Subaru",
+    "model": "WRX",
+    "years": [
+      2022,
+      2021,
+      2020,
+      2019
+    ],
+    "category": "Lights",
+    "parts": [
+      {
+        "part_name": "Headlight Bulb",
+        "part_number": "84001-VA020",
+        "description": "Headlight bulb for Subaru WRX, driver side"
+      },
+      {
+        "part_name": "Fog Light Assembly",
+        "part_number": "84501-VA010",
+        "description": "Fog light assembly for Subaru WRX"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Subaru",
+    "make": "Subaru",
+    "model": "WRX",
+    "years": [
+      2022,
+      2021,
+      2020
+    ],
+    "category": "Wipers",
+    "parts": [
+      {
+        "part_name": "Wiper Blade",
+        "part_number": "65021-VA070",
+        "description": "Wiper blade for Subaru WRX, driver side"
+      },
+      {
+        "part_name": "Wiper Arm",
+        "part_number": "65022-VA010",
+        "description": "Wiper arm for Subaru WRX, passenger side"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Subaru",
+    "make": "Subaru",
+    "model": "WRX",
+    "years": [
+      2022,
+      2021,
+      2020,
+      2019,
+      2018
+    ],
+    "category": "Brakes",
+    "parts": [
+      {
+        "part_name": "Brake Pad Set",
+        "part_number": "26696-VA000",
+        "description": "Front brake pad set for Subaru WRX"
+      },
+      {
+        "part_name": "Brake Rotor",
+        "part_number": "26701-VA020",
+        "description": "Rear brake rotor for Subaru WRX"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Subaru",
+    "make": "Subaru",
+    "model": "WRX",
+    "years": [
+      2022,
+      2021,
+      2020
+    ],
+    "category": "Suspension",
+    "parts": [
+      {
+        "part_name": "Shock Absorber",
+        "part_number": "20311-VA010",
+        "description": "Front shock absorber for Subaru WRX"
+      },
+      {
+        "part_name": "Coil Spring",
+        "part_number": "20920-VA020",
+        "description": "Rear coil spring for Subaru WRX"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Subaru",
+    "make": "Subaru",
+    "model": "WRX",
+    "years": [
+      2022,
+      2021,
+      2020,
+      2019,
+      2018,
+      2017
+    ],
+    "category": "Engine",
+    "parts": [
+      {
+        "part_name": "Air Filter",
+        "part_number": "16546-AA120",
+        "description": "Engine air filter for Subaru WRX"
+      },
+      {
+        "part_name": "Spark Plug",
+        "part_number": "22433-AA670",
+        "description": "Iridium spark plug for Subaru WRX"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Subaru",
+    "make": "Subaru",
+    "model": "WRX",
+    "years": [
+      2022,
+      2021,
+      2020,
+      2019
+    ],
+    "category": "Wheels",
+    "parts": [
+      {
+        "part_name": "Alloy Wheel",
+        "part_number": "28111-VA040",
+        "description": "18-inch alloy wheel for Subaru WRX"
+      },
+      {
+        "part_name": "Wheel Hub Assembly",
+        "part_number": "28192-VA010",
+        "description": "Front wheel hub assembly for Subaru WRX"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Subaru",
+    "make": "Subaru",
+    "model": "WRX",
+    "years": [
+      2022,
+      2021
+    ],
+    "category": "Interior",
+    "parts": [
+      {
+        "part_name": "Floor Mat Set",
+        "part_number": "J501-VA000",
+        "description": "Premium floor mat set for Subaru WRX"
+      },
+      {
+        "part_name": "Steering Wheel Cover",
+        "part_number": "63114-VA020",
+        "description": "Leather steering wheel cover for Subaru WRX"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Subaru",
+    "make": "Subaru",
+    "model": "WRX",
+    "years": [
+      2022,
+      2021,
+      2020,
+      2019,
+      2018
+    ],
+    "category": "Exterior",
+    "parts": [
+      {
+        "part_name": "Side Mirror",
+        "part_number": "91033-VA010",
+        "description": "Power side mirror for Subaru WRX, driver side"
+      },
+      {
+        "part_name": "Roof Rack",
+        "part_number": "E361-VA000",
+        "description": "Aluminum roof rack for Subaru WRX"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Subaru",
+    "make": "Subaru",
+    "model": "WRX",
+    "years": [
+      2022,
+      2021,
+      2020
+    ],
+    "category": "Electronics",
+    "parts": [
+      {
+        "part_name": "Backup Camera",
+        "part_number": "86261-VA010",
+        "description": "Rearview backup camera for Subaru WRX"
+      },
+      {
+        "part_name": "Dash Cam",
+        "part_number": "DC-1080P",
+        "description": "1080P dash cam for Subaru WRX"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Subaru",
+    "make": "Subaru",
+    "model": "WRX",
+    "years": [
+      2022,
+      2021,
+      2020,
+      2019,
+      2018,
+      2017,
+      2016
+    ],
+    "category": "Fluids",
+    "parts": [
+      {
+        "part_name": "Engine Oil",
+        "part_number": "SOA427V1315",
+        "description": "Full synthetic 0W-20 engine oil for Subaru WRX"
+      },
+      {
+        "part_name": "Transmission Fluid",
+        "part_number": "SOA427V1600",
+        "description": "Subaru ATF for Subaru WRX"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Toyota",
+    "make": "Toyota",
+    "model": "Camry",
+    "years": [
+      2022,
+      2021,
+      2020,
+      2019
+    ],
+    "category": "Lights",
+    "parts": [
+      {
+        "part_name": "Headlight Bulb",
+        "part_number": "90981-33074",
+        "description": "Headlight bulb for Toyota Camry, driver side"
+      },
+      {
+        "part_name": "Fog Light Assembly",
+        "part_number": "81221-06120",
+        "description": "Fog light assembly for Toyota Camry"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Toyota",
+    "make": "Toyota",
+    "model": "Camry",
+    "years": [
+      2022,
+      2021,
+      2020
+    ],
+    "category": "Wipers",
+    "parts": [
+      {
+        "part_name": "Wiper Blade",
+        "part_number": "88281-0E010",
+        "description": "Wiper blade for Toyota Camry, driver side"
+      },
+      {
+        "part_name": "Wiper Arm",
+        "part_number": "85722-06100",
+        "description": "Wiper arm for Toyota Camry, passenger side"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Toyota",
+    "make": "Toyota",
+    "model": "Camry",
+    "years": [
+      2022,
+      2021,
+      2020,
+      2019,
+      2018
+    ],
+    "category": "Brakes",
+    "parts": [
+      {
+        "part_name": "Brake Pad Set",
+        "part_number": "04465-07100",
+        "description": "Front brake pad set for Toyota Camry"
+      },
+      {
+        "part_name": "Brake Rotor",
+        "part_number": "43512-06130",
+        "description": "Rear brake rotor for Toyota Camry"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Toyota",
+    "make": "Toyota",
+    "model": "Camry",
+    "years": [
+      2022,
+      2021,
+      2020
+    ],
+    "category": "Suspension",
+    "parts": [
+      {
+        "part_name": "Shock Absorber",
+        "part_number": "48231-06120",
+        "description": "Front shock absorber for Toyota Camry"
+      },
+      {
+        "part_name": "Coil Spring",
+        "part_number": "48139-06100",
+        "description": "Rear coil spring for Toyota Camry"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Toyota",
+    "make": "Toyota",
+    "model": "Camry",
+    "years": [
+      2022,
+      2021,
+      2020,
+      2019,
+      2018,
+      2017
+    ],
+    "category": "Engine",
+    "parts": [
+      {
+        "part_name": "Air Filter",
+        "part_number": "17801-0P040",
+        "description": "Engine air filter for Toyota Camry"
+      },
+      {
+        "part_name": "Spark Plug",
+        "part_number": "90919-01247",
+        "description": "Iridium spark plug for Toyota Camry"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Toyota",
+    "make": "Toyota",
+    "model": "Camry",
+    "years": [
+      2022,
+      2021,
+      2020,
+      2019
+    ],
+    "category": "Wheels",
+    "parts": [
+      {
+        "part_name": "Alloy Wheel",
+        "part_number": "42611-06230",
+        "description": "18-inch alloy wheel for Toyota Camry"
+      },
+      {
+        "part_name": "Wheel Hub Assembly",
+        "part_number": "43530-06100",
+        "description": "Front wheel hub assembly for Toyota Camry"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Toyota",
+    "make": "Toyota",
+    "model": "Camry",
+    "years": [
+      2022,
+      2021
+    ],
+    "category": "Interior",
+    "parts": [
+      {
+        "part_name": "Floor Mat Set",
+        "part_number": "PT908-03202",
+        "description": "Premium floor mat set for Toyota Camry"
+      },
+      {
+        "part_name": "Steering Wheel Cover",
+        "part_number": "PT737-03202",
+        "description": "Leather steering wheel cover for Toyota Camry"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Toyota",
+    "make": "Toyota",
+    "model": "Camry",
+    "years": [
+      2022,
+      2021,
+      2020,
+      2019,
+      2018
+    ],
+    "category": "Exterior",
+    "parts": [
+      {
+        "part_name": "Side Mirror",
+        "part_number": "87940-06180",
+        "description": "Power side mirror for Toyota Camry, driver side"
+      },
+      {
+        "part_name": "Roof Rack",
+        "part_number": "PT278-03202",
+        "description": "Aluminum roof rack for Toyota Camry"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Toyota",
+    "make": "Toyota",
+    "model": "Camry",
+    "years": [
+      2022,
+      2021,
+      2020
+    ],
+    "category": "Electronics",
+    "parts": [
+      {
+        "part_name": "Backup Camera",
+        "part_number": "86790-06100",
+        "description": "Rearview backup camera for Toyota Camry"
+      },
+      {
+        "part_name": "Dash Cam",
+        "part_number": "DC-1080P",
+        "description": "1080P dash cam for Toyota Camry"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Toyota",
+    "make": "Toyota",
+    "model": "Camry",
+    "years": [
+      2022,
+      2021,
+      2020,
+      2019,
+      2018,
+      2017,
+      2016
+    ],
+    "category": "Fluids",
+    "parts": [
+      {
+        "part_name": "Engine Oil",
+        "part_number": "08880-80365",
+        "description": "Full synthetic 0W-20 engine oil for Toyota Camry"
+      },
+      {
+        "part_name": "Transmission Fluid",
+        "part_number": "00289-1QT88",
+        "description": "Toyota ATF WS for Toyota Camry"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Ford",
+    "make": "Ford",
+    "model": "F-150",
+    "years": [
+      2022,
+      2021,
+      2020,
+      2019
+    ],
+    "category": "Engine",
+    "parts": [
+      {
+        "part_name": "Oil Filter",
+        "part_number": "FL-820-S",
+        "description": "Motorcraft oil filter for Ford F-150"
+      },
+      {
+        "part_name": "Air Intake System",
+        "part_number": "M-9603-M50",
+        "description": "Ford Performance cold air intake system for F-150"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Ford",
+    "make": "Ford",
+    "model": "Mustang",
+    "years": [
+      2022,
+      2021,
+      2020
+    ],
+    "category": "Suspension",
+    "parts": [
+      {
+        "part_name": "Lowering Springs",
+        "part_number": "M-5300-S",
+        "description": "Ford Performance lowering springs for Mustang"
+      },
+      {
+        "part_name": "Shock Absorber",
+        "part_number": "BH-5560-A",
+        "description": "Front shock absorber for Ford Mustang"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Ford",
+    "make": "Ford",
+    "model": "Edge",
+    "years": [
+      2022,
+      2021,
+      2020,
+      2019
+    ],
+    "category": "Transmission",
+    "parts": [
+      {
+        "part_name": "Transmission Filter",
+        "part_number": "FT-1226",
+        "description": "Automatic transmission filter for Ford Edge"
+      },
+      {
+        "part_name": "Transmission Mount",
+        "part_number": "BB5Z-6068-A",
+        "description": "OEM transmission mount for Ford Edge"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Chevrolet",
+    "make": "Chevrolet",
+    "model": "Silverado 1500",
+    "years": [
+      2022,
+      2021,
+      2020
+    ],
+    "category": "Exhaust",
+    "parts": [
+      {
+        "part_name": "Exhaust Tip",
+        "part_number": "22799813",
+        "description": "Chevrolet Performance exhaust tip for Silverado 1500"
+      },
+      {
+        "part_name": "Catalytic Converter",
+        "part_number": "15186666",
+        "description": "OEM catalytic converter for Chevrolet Silverado 1500"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Honda",
+    "make": "Honda",
+    "model": "Accord",
+    "years": [
+      2022,
+      2021,
+      2020,
+      2019
+    ],
+    "category": "Cooling",
+    "parts": [
+      {
+        "part_name": "Radiator",
+        "part_number": "19010-5A2-A01",
+        "description": "OEM radiator for Honda Accord"
+      },
+      {
+        "part_name": "Thermostat",
+        "part_number": "19301-5A2-A01",
+        "description": "Engine coolant thermostat for Honda Accord"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Honda",
+    "make": "Honda",
+    "model": "Civic",
+    "years": [
+      2022,
+      2021,
+      2020
+    ],
+    "category": "Fuel System",
+    "parts": [
+      {
+        "part_name": "Fuel Pump",
+        "part_number": "17048-TBA-A00",
+        "description": "Electric fuel pump assembly for Honda Civic"
+      },
+      {
+        "part_name": "Fuel Injector",
+        "part_number": "16450-5AA-A01",
+        "description": "OEM fuel injector for Honda Civic"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Honda",
+    "make": "Honda",
+    "model": "CR-V",
+    "years": [
+      2022,
+      2021,
+      2020,
+      2019
+    ],
+    "category": "HVAC",
+    "parts": [
+      {
+        "part_name": "A/C Compressor",
+        "part_number": "38810-RZA-A01",
+        "description": "Air conditioning compressor for Honda CR-V"
+      },
+      {
+        "part_name": "Cabin Air Filter",
+        "part_number": "80292-T0G-A01",
+        "description": "Genuine Honda cabin air filter for CR-V"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Subaru",
+    "make": "Subaru",
+    "model": "Forester",
+    "years": [
+      2022,
+      2021,
+      2020
+    ],
+    "category": "Electrical",
+    "parts": [
+      {
+        "part_name": "Alternator",
+        "part_number": "23700AA730",
+        "description": "OEM alternator for Subaru Forester"
+      },
+      {
+        "part_name": "Battery",
+        "part_number": "SOA821B700",
+        "description": "Genuine Subaru battery for Forester"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Subaru",
+    "make": "Subaru",
+    "model": "Outback",
+    "years": [
+      2022,
+      2021,
+      2020,
+      2019
+    ],
+    "category": "Drivetrain",
+    "parts": [
+      {
+        "part_name": "CV Axle",
+        "part_number": "28321AL00A",
+        "description": "Front CV axle assembly for Subaru Outback"
+      },
+      {
+        "part_name": "Differential Cover",
+        "part_number": "38325AA030",
+        "description": "Rear differential cover for Subaru Outback"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Subaru",
+    "make": "Subaru",
+    "model": "WRX",
+    "years": [
+      2022,
+      2021,
+      2020
+    ],
+    "category": "Performance",
+    "parts": [
+      {
+        "part_name": "Cold Air Intake",
+        "part_number": "SOA8431000",
+        "description": "SPT cold air intake system for Subaru WRX"
+      },
+      {
+        "part_name": "Short Throw Shifter",
+        "part_number": "C1010VA000",
+        "description": "Genuine Subaru short throw shifter for WRX"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Toyota",
+    "make": "Toyota",
+    "model": "Camry",
+    "years": [
+      2022,
+      2021,
+      2020
+    ],
+    "category": "Steering",
+    "parts": [
+      {
+        "part_name": "Power Steering Pump",
+        "part_number": "44320-06180",
+        "description": "OEM power steering pump for Toyota Camry"
+      },
+      {
+        "part_name": "Steering Rack",
+        "part_number": "44250-06371",
+        "description": "Genuine Toyota steering rack for Camry"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Ford",
+    "make": "Ford",
+    "model": "F-150",
+    "years": [
+      2022,
+      2021,
+      2020
+    ],
+    "category": "Body",
+    "parts": [
+      {
+        "part_name": "Hood Latch",
+        "part_number": "FL3Z-16700-B",
+        "description": "OEM hood latch assembly for Ford F-150"
+      },
+      {
+        "part_name": "Door Handle",
+        "part_number": "FL3Z-1522404-C",
+        "description": "Exterior door handle for Ford F-150, driver side"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Ford",
+    "make": "Ford",
+    "model": "Mustang",
+    "years": [
+      2022,
+      2021,
+      2020,
+      2019
+    ],
+    "category": "Cooling",
+    "parts": [
+      {
+        "part_name": "Radiator Fan",
+        "part_number": "FR3Z-8C607-C",
+        "description": "Electric cooling fan assembly for Ford Mustang"
+      },
+      {
+        "part_name": "Coolant Reservoir",
+        "part_number": "FR3Z-8A080-A",
+        "description": "Engine coolant reservoir tank for Ford Mustang"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Ford",
+    "make": "Ford",
+    "model": "Edge",
+    "years": [
+      2022,
+      2021,
+      2020
+    ],
+    "category": "Fuel System",
+    "parts": [
+      {
+        "part_name": "Fuel Pressure Sensor",
+        "part_number": "CM5Z-9F972-A",
+        "description": "OEM fuel pressure sensor for Ford Edge"
+      },
+      {
+        "part_name": "Fuel Tank Strap",
+        "part_number": "BT4Z-9032-A",
+        "description": "Fuel tank retaining strap for Ford Edge"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Chevrolet",
+    "make": "Chevrolet",
+    "model": "Silverado 1500",
+    "years": [
+      2022,
+      2021,
+      2020,
+      2019
+    ],
+    "category": "Electrical",
+    "parts": [
+      {
+        "part_name": "Ignition Coil",
+        "part_number": "12635672",
+        "description": "OEM ignition coil for Chevrolet Silverado 1500"
+      },
+      {
+        "part_name": "Starter Motor",
+        "part_number": "12678708",
+        "description": "Genuine GM starter motor for Chevrolet Silverado 1500"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Honda",
+    "make": "Honda",
+    "model": "Accord",
+    "years": [
+      2022,
+      2021,
+      2020
+    ],
+    "category": "Exhaust",
+    "parts": [
+      {
+        "part_name": "Exhaust Manifold",
+        "part_number": "18100-5A2-A00",
+        "description": "OEM exhaust manifold for Honda Accord"
+      },
+      {
+        "part_name": "Muffler",
+        "part_number": "18307-5A2-A00",
+        "description": "Genuine Honda muffler assembly for Accord"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Honda",
+    "make": "Honda",
+    "model": "Civic",
+    "years": [
+      2022,
+      2021,
+      2020,
+      2019
+    ],
+    "category": "Transmission",
+    "parts": [
+      {
+        "part_name": "Clutch Kit",
+        "part_number": "08220-5A2-000",
+        "description": "Genuine Honda clutch kit for Civic with manual transmission"
+      },
+      {
+        "part_name": "CV Joint",
+        "part_number": "44310-5A2-A00",
+        "description": "OEM CV joint for Honda Civic"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Honda",
+    "make": "Honda",
+    "model": "CR-V",
+    "years": [
+      2022,
+      2021,
+      2020
+    ],
+    "category": "Steering",
+    "parts": [
+      {
+        "part_name": "Tie Rod End",
+        "part_number": "53540-T1W-A01",
+        "description": "Outer tie rod end for Honda CR-V"
+      },
+      {
+        "part_name": "Power Steering Hose",
+        "part_number": "53713-T1W-A01",
+        "description": "Genuine Honda power steering pressure hose for CR-V"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Subaru",
+    "make": "Subaru",
+    "model": "Forester",
+    "years": [
+      2022,
+      2021,
+      2020,
+      2019
+    ],
+    "category": "Engine",
+    "parts": [
+      {
+        "part_name": "Timing Belt Kit",
+        "part_number": "TKF-507",
+        "description": "Complete timing belt kit for Subaru Forester"
+      },
+      {
+        "part_name": "Engine Mount",
+        "part_number": "41022AL010",
+        "description": "OEM engine mount for Subaru Forester"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Subaru",
+    "make": "Subaru",
+    "model": "Outback",
+    "years": [
+      2022,
+      2021,
+      2020
+    ],
+    "category": "HVAC",
+    "parts": [
+      {
+        "part_name": "Heater Core",
+        "part_number": "72130AL000",
+        "description": "Genuine Subaru heater core for Outback"
+      },
+      {
+        "part_name": "Blower Motor",
+        "part_number": "72223AL00A",
+        "description": "HVAC blower motor for Subaru Outback"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Subaru",
+    "make": "Subaru",
+    "model": "WRX",
+    "years": [
+      2022,
+      2021,
+      2020,
+      2019
+    ],
+    "category": "Brakes",
+    "parts": [
+      {
+        "part_name": "Brake Master Cylinder",
+        "part_number": "26401VA000",
+        "description": "OEM brake master cylinder for Subaru WRX"
+      },
+      {
+        "part_name": "Brake Caliper",
+        "part_number": "26292VA000",
+        "description": "Front brake caliper for Subaru WRX"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Toyota",
+    "make": "Toyota",
+    "model": "Camry",
+    "years": [
+      2022,
+      2021,
+      2020
+    ],
+    "category": "Suspension",
+    "parts": [
+      {
+        "part_name": "Strut Assembly",
+        "part_number": "48510-06830",
+        "description": "Front strut assembly for Toyota Camry"
+      },
+      {
+        "part_name": "Control Arm",
+        "part_number": "48068-06180",
+        "description": "Front lower control arm for Toyota Camry"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Ford",
+    "make": "Ford",
+    "model": "Mustang",
+    "years": [
+      2022,
+      2021,
+      2020,
+      2019
+    ],
+    "category": "Fuel System",
+    "parts": [
+      {
+        "part_name": "Fuel Pump",
+        "part_number": "FR3Z-9H307-A",
+        "description": "Electric fuel pump assembly for Ford Mustang"
+      },
+      {
+        "part_name": "Fuel Filter",
+        "part_number": "FR3Z-9155-A",
+        "description": "Genuine Ford fuel filter for Mustang"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Ford",
+    "make": "Ford",
+    "model": "Edge",
+    "years": [
+      2022,
+      2021,
+      2020
+    ],
+    "category": "Cooling",
+    "parts": [
+      {
+        "part_name": "Water Pump",
+        "part_number": "BT4Z-8501-F",
+        "description": "OEM water pump for Ford Edge"
+      },
+      {
+        "part_name": "Coolant Temperature Sensor",
+        "part_number": "DG1Z-12A648-A",
+        "description": "Engine coolant temperature sensor for Ford Edge"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Chevrolet",
+    "make": "Chevrolet",
+    "model": "Silverado 1500",
+    "years": [
+      2022,
+      2021,
+      2020,
+      2019
+    ],
+    "category": "Transmission",
+    "parts": [
+      {
+        "part_name": "Transmission Pan",
+        "part_number": "24283804",
+        "description": "Automatic transmission oil pan for Chevrolet Silverado 1500"
+      },
+      {
+        "part_name": "Shift Cable",
+        "part_number": "23135732",
+        "description": "Genuine GM shift cable for Chevrolet Silverado 1500"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Honda",
+    "make": "Honda",
+    "model": "Accord",
+    "years": [
+      2022,
+      2021,
+      2020
+    ],
+    "category": "Ignition",
+    "parts": [
+      {
+        "part_name": "Ignition Switch",
+        "part_number": "35130-T2A-A01",
+        "description": "OEM ignition switch for Honda Accord"
+      },
+      {
+        "part_name": "Spark Plug Wire Set",
+        "part_number": "32742-5A2-A00",
+        "description": "Genuine Honda spark plug wire set for Accord"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Honda",
+    "make": "Honda",
+    "model": "Civic",
+    "years": [
+      2022,
+      2021,
+      2020,
+      2019
+    ],
+    "category": "Engine",
+    "parts": [
+      {
+        "part_name": "Camshaft",
+        "part_number": "14110-5AA-A00",
+        "description": "OEM camshaft for Honda Civic"
+      },
+      {
+        "part_name": "Valve Cover Gasket",
+        "part_number": "12030-5AA-A01",
+        "description": "Engine valve cover gasket for Honda Civic"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Honda",
+    "make": "Honda",
+    "model": "CR-V",
+    "years": [
+      2022,
+      2021,
+      2020
+    ],
+    "category": "Suspension",
+    "parts": [
+      {
+        "part_name": "Sway Bar Link",
+        "part_number": "51320-T1W-A01",
+        "description": "Front stabilizer link for Honda CR-V"
+      },
+      {
+        "part_name": "Strut Mount",
+        "part_number": "51920-T1W-A01",
+        "description": "Front strut mount for Honda CR-V"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Subaru",
+    "make": "Subaru",
+    "model": "Forester",
+    "years": [
+      2022,
+      2021,
+      2020,
+      2019
+    ],
+    "category": "Exhaust",
+    "parts": [
+      {
+        "part_name": "Exhaust Gasket",
+        "part_number": "44011AG000",
+        "description": "Exhaust manifold gasket for Subaru Forester"
+      },
+      {
+        "part_name": "Muffler",
+        "part_number": "44300SG000",
+        "description": "OEM muffler assembly for Subaru Forester"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Subaru",
+    "make": "Subaru",
+    "model": "Outback",
+    "years": [
+      2022,
+      2021,
+      2020
+    ],
+    "category": "Electrical",
+    "parts": [
+      {
+        "part_name": "Alternator Belt",
+        "part_number": "23780AA070",
+        "description": "Serpentine belt for Subaru Outback alternator"
+      },
+      {
+        "part_name": "Voltage Regulator",
+        "part_number": "23800AA060",
+        "description": "Alternator voltage regulator for Subaru Outback"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Subaru",
+    "make": "Subaru",
+    "model": "WRX",
+    "years": [
+      2022,
+      2021,
+      2020,
+      2019
+    ],
+    "category": "Turbocharger",
+    "parts": [
+      {
+        "part_name": "Turbocharger",
+        "part_number": "14411AA880",
+        "description": "OEM turbocharger for Subaru WRX"
+      },
+      {
+        "part_name": "Wastegate Actuator",
+        "part_number": "14974AA140",
+        "description": "Turbocharger wastegate actuator for Subaru WRX"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Toyota",
+    "make": "Toyota",
+    "model": "Camry",
+    "years": [
+      2022,
+      2021,
+      2020
+    ],
+    "category": "Transmission",
+    "parts": [
+      {
+        "part_name": "Transmission Solenoid",
+        "part_number": "35230-06060",
+        "description": "Automatic transmission shift solenoid for Toyota Camry"
+      },
+      {
+        "part_name": "Torque Converter",
+        "part_number": "35100-06060",
+        "description": "OEM torque converter for Toyota Camry"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Ford",
+    "make": "Ford",
+    "model": "F-150",
+    "years": [
+      2022,
+      2021,
+      2020
+    ],
+    "category": "Steering",
+    "parts": [
+      {
+        "part_name": "Steering Gear",
+        "part_number": "FL3Z-3504-C",
+        "description": "Power steering gear box for Ford F-150"
+      },
+      {
+        "part_name": "Steering Column",
+        "part_number": "FL3Z-3C529-H",
+        "description": "Steering column assembly for Ford F-150"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Ford",
+    "make": "Ford",
+    "model": "Mustang",
+    "years": [
+      2022,
+      2021,
+      2020,
+      2019
+    ],
+    "category": "Drivetrain",
+    "parts": [
+      {
+        "part_name": "Driveshaft",
+        "part_number": "FR3Z-4R602-A",
+        "description": "OEM driveshaft assembly for Ford Mustang"
+      },
+      {
+        "part_name": "Differential Bearing",
+        "part_number": "FR3Z-4221-A",
+        "description": "Rear differential bearing for Ford Mustang"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Ford",
+    "make": "Ford",
+    "model": "Edge",
+    "years": [
+      2022,
+      2021,
+      2020
+    ],
+    "category": "Body",
+    "parts": [
+      {
+        "part_name": "Fender",
+        "part_number": "BT4Z-16006-A",
+        "description": "Front fender for Ford Edge, driver side"
+      },
+      {
+        "part_name": "Bumper Cover",
+        "part_number": "BT4Z-17D957-A",
+        "description": "Front bumper cover for Ford Edge"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Chevrolet",
+    "make": "Chevrolet",
+    "model": "Silverado 1500",
+    "years": [
+      2022,
+      2021,
+      2020,
+      2019
+    ],
+    "category": "HVAC",
+    "parts": [
+      {
+        "part_name": "Blower Motor Resistor",
+        "part_number": "15141283",
+        "description": "HVAC blower motor resistor for Chevrolet Silverado 1500"
+      },
+      {
+        "part_name": "AC Condenser",
+        "part_number": "84571826",
+        "description": "Air conditioning condenser for Chevrolet Silverado 1500"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Honda",
+    "make": "Honda",
+    "model": "Accord",
+    "years": [
+      2022,
+      2021,
+      2020
+    ],
+    "category": "Fuel System",
+    "parts": [
+      {
+        "part_name": "Fuel Tank",
+        "part_number": "17044-T2F-A00",
+        "description": "OEM fuel tank for Honda Accord"
+      },
+      {
+        "part_name": "Fuel Pressure Regulator",
+        "part_number": "16740-5A2-A01",
+        "description": "Genuine Honda fuel pressure regulator for Accord"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Honda",
+    "make": "Honda",
+    "model": "Civic",
+    "years": [
+      2022,
+      2021,
+      2020,
+      2019
+    ],
+    "category": "Cooling",
+    "parts": [
+      {
+        "part_name": "Radiator Cap",
+        "part_number": "19045-PAA-A01",
+        "description": "OEM radiator cap for Honda Civic"
+      },
+      {
+        "part_name": "Coolant Hose",
+        "part_number": "19501-5AA-A03",
+        "description": "Upper radiator hose for Honda Civic"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Honda",
+    "make": "Honda",
+    "model": "CR-V",
+    "years": [
+      2022,
+      2021,
+      2020
+    ],
+    "category": "Exhaust",
+    "parts": [
+      {
+        "part_name": "Exhaust Pipe",
+        "part_number": "18210-T1W-A00",
+        "description": "Front exhaust pipe for Honda CR-V"
+      },
+      {
+        "part_name": "Exhaust Hanger",
+        "part_number": "18215-T0A-A01",
+        "description": "Rubber exhaust hanger for Honda CR-V"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Ford",
+    "make": "Ford",
+    "model": "F-150",
+    "years": [
+      2022,
+      2021,
+      2020,
+      2019
+    ],
+    "category": "Wipers",
+    "parts": [
+      {
+        "part_name": "Wiper Blade Set",
+        "part_number": "FL3Z-17528-G",
+        "description": "Premium wiper blade set for Ford F-150, driver and passenger side"
+      },
+      {
+        "part_name": "Rear Wiper Blade",
+        "part_number": "FL3Z-17526-A",
+        "description": "Rear wiper blade for Ford F-150"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Ford",
+    "make": "Ford",
+    "model": "Mustang",
+    "years": [
+      2022,
+      2021,
+      2020
+    ],
+    "category": "Wipers",
+    "parts": [
+      {
+        "part_name": "Wiper Blade Set",
+        "part_number": "FR3Z-17528-C",
+        "description": "Performance wiper blade set for Ford Mustang, driver and passenger side"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Ford",
+    "make": "Ford",
+    "model": "Edge",
+    "years": [
+      2022,
+      2021,
+      2020
+    ],
+    "category": "Wipers",
+    "parts": [
+      {
+        "part_name": "Wiper Blade Set",
+        "part_number": "BT4Z-17528-B",
+        "description": "All-season wiper blade set for Ford Edge, driver and passenger side"
+      },
+      {
+        "part_name": "Rear Wiper Blade",
+        "part_number": "BT4Z-17526-A",
+        "description": "Rear wiper blade for Ford Edge"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Chevrolet",
+    "make": "Chevrolet",
+    "model": "Silverado 1500",
+    "years": [
+      2022,
+      2021,
+      2020
+    ],
+    "category": "Wipers",
+    "parts": [
+      {
+        "part_name": "Wiper Blade Set",
+        "part_number": "23731072",
+        "description": "OEM wiper blade set for Chevrolet Silverado 1500, driver and passenger side"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Honda",
+    "make": "Honda",
+    "model": "Accord",
+    "years": [
+      2022,
+      2021,
+      2020
+    ],
+    "category": "Wipers",
+    "parts": [
+      {
+        "part_name": "Wiper Blade Set",
+        "part_number": "76622-T2F-A11",
+        "description": "Genuine Honda wiper blade set for Accord, driver and passenger side"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Honda",
+    "make": "Honda",
+    "model": "Civic",
+    "years": [
+      2022,
+      2021,
+      2020,
+      2019
+    ],
+    "category": "Wipers",
+    "parts": [
+      {
+        "part_name": "Wiper Blade Set",
+        "part_number": "76622-TBA-A11",
+        "description": "Genuine Honda wiper blade set for Civic, driver and passenger side"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Honda",
+    "make": "Honda",
+    "model": "CR-V",
+    "years": [
+      2022,
+      2021,
+      2020
+    ],
+    "category": "Wipers",
+    "parts": [
+      {
+        "part_name": "Wiper Blade Set",
+        "part_number": "76622-TLA-A11",
+        "description": "Genuine Honda wiper blade set for CR-V, driver and passenger side"
+      },
+      {
+        "part_name": "Rear Wiper Blade",
+        "part_number": "76630-TLA-A01",
+        "description": "Rear wiper blade for Honda CR-V"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Subaru",
+    "make": "Subaru",
+    "model": "Forester",
+    "years": [
+      2022,
+      2021,
+      2020,
+      2019
+    ],
+    "category": "Wipers",
+    "parts": [
+      {
+        "part_name": "Wiper Blade Set",
+        "part_number": "SOA591U222",
+        "description": "Genuine Subaru wiper blade set for Forester, driver and passenger side"
+      },
+      {
+        "part_name": "Rear Wiper Blade",
+        "part_number": "SOA591U011",
+        "description": "Rear wiper blade for Subaru Forester"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Subaru",
+    "make": "Subaru",
+    "model": "Outback",
+    "years": [
+      2022,
+      2021,
+      2020
+    ],
+    "category": "Wipers",
+    "parts": [
+      {
+        "part_name": "Wiper Blade Set",
+        "part_number": "SOA591U242",
+        "description": "Genuine Subaru wiper blade set for Outback, driver and passenger side"
+      },
+      {
+        "part_name": "Rear Wiper Blade",
+        "part_number": "SOA591U021",
+        "description": "Rear wiper blade for Subaru Outback"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Subaru",
+    "make": "Subaru",
+    "model": "WRX",
+    "years": [
+      2022,
+      2021,
+      2020,
+      2019
+    ],
+    "category": "Wipers",
+    "parts": [
+      {
+        "part_name": "Wiper Blade Set",
+        "part_number": "SOA591U231",
+        "description": "Genuine Subaru wiper blade set for WRX, driver and passenger side"
+      }
+    ]
+  },
+  {
+    "manufacturer": "Toyota",
+    "make": "Toyota",
+    "model": "Camry",
+    "years": [
+      2022,
+      2021,
+      2020
+    ],
+    "category": "Wipers",
+    "parts": [
+      {
+        "part_name": "Wiper Blade Set",
+        "part_number": "85222-06170",
+        "description": "Genuine Toyota wiper blade set for Camry, driver and passenger side"
+      }
+    ]
+  }
+]

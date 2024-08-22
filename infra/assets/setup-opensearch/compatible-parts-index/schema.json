@@ -1,0 +1,58 @@
+{
+    "settings": {
+        "index": {
+            "number_of_shards": 1,
+            "number_of_replicas": 1
+        },
+        "analysis": {
+            "analyzer": {
+                "keyword_analyzer": {
+                    "type": "custom",
+                    "tokenizer": "keyword",
+                    "filter": [
+                        "lowercase"
+                    ]
+                }
+            }
+        }
+    },
+    "mappings": {
+        "properties": {
+            "manufacturer": {
+                "type": "text",
+                "analyzer": "keyword_analyzer"
+            },
+            "make": {
+                "type": "text",
+                "analyzer": "keyword_analyzer"
+            },
+            "model": {
+                "type": "text",
+                "analyzer": "keyword_analyzer"
+            },
+            "years": {
+                "type": "integer"
+            },
+            "category": {
+                "type": "text",
+                "analyzer": "standard"
+            },
+            "parts": {
+                "type": "nested",
+                "properties": {
+                    "part_name": {
+                        "type": "text",
+                        "analyzer": "keyword_analyzer"
+                    },
+                    "part_number": {
+                        "type": "keyword"
+                    },
+                    "description": {
+                        "type": "text",
+                        "analyzer": "standard"
+                    }
+                }
+            }
+        }
+    }
+}

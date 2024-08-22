@@ -1,0 +1,6 @@
+boto3
+streamlit
+streamlit-card
+pydantic
+opensearch-py
+requests-aws4auth
