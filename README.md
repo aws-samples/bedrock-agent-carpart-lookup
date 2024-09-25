@@ -15,7 +15,7 @@ Our Amazon Bedrock powered Car Parts Assistant addresses these challenges by pro
 
 ### Demo
 
-![Agent Demo](./docs/workflow.png)
+![Agent Demo](./docs/demo.mov)
 
 ### Key Features
 
