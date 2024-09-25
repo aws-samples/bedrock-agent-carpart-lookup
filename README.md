@@ -1,4 +1,4 @@
-# Bedrock Agents | Car Parts Assistant
+# Enhance customer support with Agents for Amazon Bedrock by integrating enterprise data APIs
 
 Car owners and mechanics often struggle to find the right parts for specific vehicles. The challenges include:
 
